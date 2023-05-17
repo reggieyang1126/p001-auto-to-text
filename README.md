@@ -14,6 +14,7 @@ This project utilizes the Whisper convert audio files into text.
 
 ```bash
 git clone https://github.com/reggieyang1126/p001-auto-to-text
+```
 
-```activate environment
+2. Activate environment:
 conda activate p001
